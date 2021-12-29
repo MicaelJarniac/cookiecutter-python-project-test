@@ -1,2 +1,3 @@
 cookiecutter-python-project-test
 cookiecutter_python_project_test
+MicaelJarniac-cookiecutter-python-project-test

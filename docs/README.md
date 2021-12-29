@@ -24,8 +24,8 @@
 [actions]: https://github.com/MicaelJarniac/cookiecutter-python-project-test/actions
 [badge-semantic-release]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079?style=flat-square
 [semantic-release]: https://github.com/semantic-release/semantic-release
-[badge-pypi]: https://img.shields.io/pypi/v/cookiecutter_python_project_test?style=flat-square
-[pypi]: https://pypi.org/project/cookiecutter_python_project_test
+[badge-pypi]: https://img.shields.io/pypi/v/MicaelJarniac-cookiecutter-python-project-test?style=flat-square
+[pypi]: https://pypi.org/project/MicaelJarniac-cookiecutter-python-project-test
 [badge-docs]: https://img.shields.io/readthedocs/cookiecutter_python_project_test?style=flat-square
 [docs]: https://cookiecutter_python_project_test.readthedocs.io
 
@@ -72,10 +72,10 @@ A simple Python project template.
 ## Installation
 
 ### pip
-[*cookiecutter_python_project_test*][pypi] is available on [pip](https://pip.pypa.io/en/stable/):
+[*MicaelJarniac-cookiecutter-python-project-test*][pypi] is available on [pip](https://pip.pypa.io/en/stable/):
 
 ```bash
-pip install cookiecutter_python_project_test
+pip install MicaelJarniac-cookiecutter-python-project-test
 ```
 
 ### GitHub
@@ -111,6 +111,6 @@ More details can be found in [CONTRIBUTING](CONTRIBUTING.md).
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
-[MIT](LICENSE)
+[MIT](../LICENSE)
 
 This project was created with the [MicaelJarniac/cookiecutter-python-project](https://github.com/MicaelJarniac/cookiecutter-python-project) template.
